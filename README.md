@@ -12,7 +12,7 @@
 ### 🛠️ Womit ich arbeite
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,threejs,react,nodejs,git,github,vscode&perline=10" alt="Technologien" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,threejs,react,nodejs,python,tailwind,vite,apache,linux,git,github,vscode,figma&perline=9" alt="Technologien" />
 </p>
 
 ### 💼 Was ich mache
